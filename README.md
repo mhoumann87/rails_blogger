@@ -1,24 +1,11 @@
-# README
+# Blogger: A Rails App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple CMS build as part of the Web Development 101 course on [the Odin Project](https://www.theodinproject.com).
 
-Things you may want to cover:
+Tutorial are from [JumpStartLab](http://tutorials.jumpstartlab.com/projects/blogger.html).
 
-* Ruby version
+* Ruby version 2.6.1
 
-* System dependencies
+* Rails version 5.2.2
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Development database SqLite3
